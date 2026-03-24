@@ -1,0 +1,35 @@
+CÂU 2 - KINH TẾ (Vấn đề)
+===========================
+
+Câu gốc: Tuy nhiên, khoảng cách giàu nghèo giữa các nước phát triển và đang phát triển ngày càng lớn, gây ra nhiều vấn đề cấp bách về thất nghiệp ở thế hệ trẻ.
+
+Cắt cụm:    Tuy nhiên | khoảng cách giàu nghèo | giữa các nước PT | và đang PT | ngày càng lớn | gây ra | nhiều vấn đề cấp bách | về thất nghiệp | ở thế hệ trẻ
+Chức năng:  liên từ    | Hột (S)                | y thuần           | liên từ    | ĐTC           | y trùng chủ ngữ - Ving | Hột (O)        | y thuần        | y thuần
+
+BẢN DỊCH CỦA TÔI:
+however, income inequally between developed and developing countries has become larger giving raise to many pressing issue about unemployment in younger generation
+
+LỖI:
+1. inequally → inequality (inequally không tồn tại! Lần 2!)
+2. has become larger → has become increasingly wide / has widened (khoảng cách lớn ≠ larger)
+3. giving raise → giving RISE (lần 2! rise ≠ raise)
+4. many pressing issue → numerous pressing issues (số nhiều + dùng numerous)
+5. in younger generation → among the younger generation (cần "the" + dùng "among")
+
+GHI NHỚ: inequality
+- equal → inequality (danh từ)
+- equal → unequal (tính từ)
+- equal → equally (trạng từ)
+- KHÔNG CÓ: inequally ✗
+
+CÂU ĐÃ SỬA:
+However, income inequality between developed and developing countries has become increasingly wide, giving rise to numerous pressing issues regarding joblessness among the younger generation.
+
+TỪ NÂNG CẤP MỚI:
+- income inequality → the wealth gap / income disparity (khoảng cách giàu nghèo)
+- become larger → widened / grown significantly (ngày càng lớn)
+- developed countries → developed nations (nước phát triển)
+- developing countries → developing nations (nước đang phát triển)
+
+CÂU NÂNG CẤP:
+However, the wealth gap between developed and developing nations has widened significantly, giving rise to numerous pressing issues regarding joblessness among the younger generation.

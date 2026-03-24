@@ -1,0 +1,24 @@
+CÂU 1 - KINH TẾ (Bối cảnh - ngắn)
+====================================
+
+Câu gốc: Toàn cầu hóa đã thay đổi hoàn toàn nền kinh tế thế giới.
+
+Cắt cụm:    Toàn cầu hóa | đã thay đổi | hoàn toàn | nền kinh tế thế giới
+Chức năng:  Hột (S)       | ĐTC         | trạng từ   | Hột (O)
+
+BẢN DỊCH CỦA TÔI:
+globalization has completely changed the global economic
+
+LỖI:
+1. economic → economy (economic = tính từ, economy = danh từ)
+
+PHÂN BIỆT:
+- economy (n) = nền kinh tế → the global economy
+- economic (adj) = thuộc kinh tế → economic growth
+- economical (adj) = tiết kiệm → an economical car
+
+CÂU ĐÃ SỬA:
+Globalization has completely changed the global economy.
+
+CÂU NÂNG CẤP:
+Globalization has drastically transformed the global economy.

@@ -1,0 +1,15 @@
+CÂU 6 - GIÁO DỤC
+==================
+
+VN: Cơ quan chức năng cho rằng việc phân bổ nguồn lực vào giáo dục là biện pháp hiệu quả nhất để nâng cao kết quả học tập của người học.
+
+BẢN DỊCH CỦA TÔI:
+authorities contend that allocating resouces to education is the most effective measures to enhance learning results of leaners
+
+LỖI:
+1. resouces → resources (chính tả)
+2. leaners → learners (chính tả)
+3. the most effective measures → the most effective measure (số ít vì "là biện pháp")
+
+CÂU ĐÃ SỬA:
+Authorities contend that allocating resources to education is the most effective measure to elevate academic performance of learners.

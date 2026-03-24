@@ -1,0 +1,194 @@
+ÔN TẬP NGÀY 2026-03-24
+========================
+
+=== LỖI NGỮ PHÁP HAY MẮC ===
+
+1. QUÊN "S" SỐ NHIỀU
+   Sai: disaster, flood, drought, factory, city, source, year
+   Đúng: disasters, floods, droughts, factories, cities, sources, years
+   → Danh từ đếm được khi nói chung/nhiều PHẢI có "s"
+
+2. DÙNG "THE" TRƯỚC KHÁI NIỆM CHUNG
+   Sai: the climate change, the air pollution, the water pollution
+   Đúng: climate change, air pollution, water pollution
+   → Khái niệm chung/trừu tượng KHÔNG dùng "the"
+
+3. THIẾU "A/AN" TRƯỚC DANH TỪ ĐẾM ĐƯỢC SỐ ÍT
+   Sai: is pressing issue
+   Đúng: is a pressing issue
+
+4. VỊ TRÍ TÍNH TỪ
+   Sai: policies more strict
+   Đúng: stricter policies (tính từ ngắn dùng -er, đặt TRƯỚC danh từ)
+
+5. "BECOME" KHÔNG ĐI VỚI "TO"
+   Sai: has become to a problem
+   Đúng: has become a problem
+
+6. CHỦ NGỮ SỐ ÍT → ĐỘNG TỪ THÊM "S"
+   Sai: the government need
+   Đúng: the government needs
+
+7. AFFECT vs EFFECT vs IMPACT
+   affect = động từ (Pollution affects health)
+   effect = danh từ (the effect of pollution)
+   impact = danh từ (mitigate the impact)
+
+8. ENFORCE vs FORCE
+   enforce = thi hành luật (enforce regulations)
+   force = buộc người (force sb to do sth)
+
+9. FACE không đi với WITH
+   Sai: facing with pollution
+   Đúng: facing pollution
+   Lưu ý: "deal WITH sth" có with, "be faced WITH sth" có with, nhưng "face sth" thì KHÔNG
+
+10. GIVE RISE TO - không được bỏ "TO"
+    Sai: given rise numerous disasters
+    Đúng: given rise to numerous disasters
+    → Cụm cố định: give rise TO sth
+
+
+=== BẢNG TỪ NÂNG CẤP ===
+
+ #  | Cơ bản                | Nâng cấp                      | Nghĩa tiếng Việt
+----+-----------------------+-------------------------------+---------------------------
+ 1  | big                   | major                         | lớn, quan trọng
+ 2  | serious problem       | pressing issue                | vấn đề cấp bách
+ 3  | because of            | due to                        | bởi vì
+ 4  | factories             | industrial facilities         | cơ sở công nghiệp
+ 5  | nowadays              | at present                    | hiện nay
+ 6  | many                  | numerous                      | nhiều
+ 7  | caused                | given rise to                 | gây ra
+ 8  | around the world      | across the globe              | trên khắp thế giới
+ 9  | the government        | authorities                   | cơ quan chức năng
+10  | issue (ban hành)      | implement / enforce           | thực thi / áp dụng
+11  | stricter policies     | more stringent regulations    | quy định nghiêm ngặt hơn
+12  | reduce                | mitigate                      | giảm thiểu
+13  | clean water sources   | freshwater resources          | nguồn nước sạch
+14  | big cities            | metropolitan areas            | đô thị lớn
+15  | serious (pollution)   | severe                        | nghiêm trọng
+
+--- CHỦ ĐỀ 2: GIÁO DỤC ---
+16  | bad quality           | substandard / poor-quality    | kém chất lượng
+17  | enhance               | elevate / boost               | nâng cao
+18  | education level       | educational standards         | trình độ học vấn
+19  | education level       | academic performance          | kết quả học tập
+20  | students              | learners / pupils             | người học / học sinh
+21  | policies              | measures                      | biện pháp
+22  | experts               | scholars / specialists        | học giả / chuyên gia
+23  | think/believe         | contend / argue               | cho rằng (academic)
+24  | investing in          | allocating resources to       | phân bổ nguồn lực
+25  | positive impact       | profound impact               | tác động sâu sắc
+26  | economic development  | economic prosperity           | thịnh vượng kinh tế
+27  | unemployment rate     | joblessness                   | thất nghiệp
+28  | young people          | the younger generation        | thế hệ trẻ
+
+--- CHỦ ĐỀ 3: CÔNG NGHỆ ---
+29  | children              | youngsters                    | trẻ em / giới trẻ
+30  | development           | advancement / emergence       | sự tiến bộ / sự xuất hiện
+31  | changed completely    | drastically transformed       | thay đổi hoàn toàn
+32  | lifestyle habits      | daily routines                | thói quen hàng ngày
+33  | lifestyle habits      | behavioral patterns           | hành vi
+34  | playing outdoors      | engaging in outdoor activities| tham gia hoạt động ngoài trời
+35  | decreased             | declined / deteriorated       | suy giảm / xuống cấp
+36  | seriously             | severely / drastically        | nghiêm trọng
+37  | about                 | regarding / concerning        | về (formal)
+38  | mental health         | psychological well-being      | sức khỏe tâm lý
+39  | social media          | social networking platforms   | nền tảng mạng xã hội
+40  | negative impact       | detrimental effects           | tác hại
+41  | control               | regulate / monitor            | kiểm soát / giám sát
+42  | raise awareness       | heighten awareness            | nâng cao nhận thức
+
+--- CHỦ ĐỀ 4: KINH TẾ ---
+43  | economy (n)           | ≠ economic (adj)              | nền kinh tế ≠ thuộc kinh tế
+44  | income inequality     | the wealth gap / income disparity | khoảng cách giàu nghèo
+45  | become larger (gap)   | widened / grown significantly  | ngày càng lớn
+46  | countries             | nations                       | quốc gia (formal)
+47  | narrow the gap        | bridge the gap / close the divide | thu hẹp khoảng cách
+48  | vocational training   | vocational education and training (VET) | đào tạo nghề
+
+=== CỤM CỐ ĐỊNH CẦN NHỚ ===
+
+- give rise TO sth (không bỏ to)
+- face sth (không có with)
+- deal WITH sth (có with)
+- be faced WITH sth (có with)
+- force sb TO do sth (buộc người)
+- enforce sth (thi hành luật)
+- invest IN sth (không phải on/to) → mắc 2 lần!
+- impact ON sth (không phải to) → mắc 2 lần!
+- allocate resources TO sth
+- spend time V-ing (không phải to V)
+- has COMPLETELY changed (trạng từ giữa has + V3)
+- give RISE to (không phải raise! raise = nâng lên)
+- make + O + V nguyên mẫu (make performance decline)
+- cause + O + to V (cause performance to decline)
+- SAI: make + O + V-ed
+
+=== CÂU ÔN TẬP ===
+
+Câu ôn 1:
+VN: Hiện nay, biến đổi khí hậu là vấn đề cấp bách trên khắp thế giới vì nó đã gây ra nhiều thảm họa lớn.
+Bản dịch: at present, climate change is a pressing issue across the globe because it has given rise numerous major disasters
+Lỗi: thiếu "to" → given rise TO numerous
+Đáp án: At present, climate change is a pressing issue across the globe because it has given rise to numerous major disasters.
+
+Câu ôn 2:
+VN: Cơ quan chức năng cần thực thi các quy định nghiêm ngặt hơn để giảm thiểu ô nhiễm từ các cơ sở công nghiệp và bảo vệ nguồn nước sạch.
+Bản dịch: the authorities should implement more stringent regulations to mitigate pollution from industrial facilities and protect freshwater resources
+Lỗi: 0 lỗi! Hoàn hảo!
+
+Câu ôn 3:
+VN: Hiện nay, nhiều thành phố lớn đang đối mặt với ô nhiễm nghiêm trọng do khí thải từ các cơ sở công nghiệp, buộc cơ quan chức năng phải thực thi các quy định nghiêm ngặt hơn để giảm thiểu tác động trên khắp thế giới.
+Bản dịch: nowadays, numerous metropolitan areas are facing with serious pollution due to the emissions from industrial facilities, forcing the authorities to implement more stringent regulations to mitigate the effect across the globe
+Lỗi: facing with → facing (face không đi với with)
+Đáp án: Nowadays, numerous metropolitan areas are facing severe pollution due to emissions from industrial facilities, forcing authorities to implement more stringent regulations to mitigate the impact across the globe.
+
+Câu ôn 4:
+VN: Nhiều thảm họa lớn đã xảy ra trên khắp thế giới do biến đổi khí hậu, đây là vấn đề cấp bách buộc cơ quan chức năng phải giảm thiểu khí thải từ các cơ sở công nghiệp ở nhiều đô thị lớn.
+Bản dịch: numerous major diasters has given rise across the globe due to climate change, this is a pressing issue which forcing the autirities to mitigate the emissions from industrial factilities in many metropolitan areas
+Lỗi:
+- diasters, autirities, factilities → lỗi chính tả
+- disasters has → disasters have (số nhiều)
+- given rise ≠ occur (thảm họa "xảy ra" = occur, không phải "gây ra")
+- this is → comma splice, dùng which is hoặc tách câu
+- which forcing → which forces (chia động từ)
+- many → numerous
+Đáp án: Numerous major disasters have occurred across the globe due to climate change, which is a pressing issue forcing authorities to mitigate emissions from industrial facilities in numerous metropolitan areas.
+
+Câu ôn 5:
+VN: Hiện nay, ô nhiễm nghiêm trọng đã gây ra nhiều vấn đề cấp bách về nguồn nước sạch, buộc cơ quan chức năng phải thực thi các quy định nghiêm ngặt hơn trên khắp thế giới.
+Bản dịch: nowadays, rampant pollution has given rise to numerous pressing issues aboout freshwater resources, forcing the authorities to implement more stringent regulations across the globe
+Lỗi: aboout → about, the authorities → authorities
+Đáp án: Nowadays, severe pollution has given rise to numerous pressing issues about freshwater resources, forcing authorities to implement more stringent regulations across the globe.
+
+Câu ôn 6 (Boss fight - lần 1):
+VN: Biến đổi khí hậu đã gây ra nhiều thảm họa lớn, đây là vấn đề cấp bách buộc cơ quan chức năng ở nhiều đô thị lớn phải thực thi các quy định nghiêm ngặt hơn để giảm thiểu ô nhiễm nghiêm trọng từ các cơ sở công nghiệp và bảo vệ nguồn nước sạch trên khắp thế giới.
+Bản dịch (lần 1): climate change has given rise to numerous major disasters, this is a pressing issue forcing authorities to implement more stringent to mitigate rampant pollution from industrial facilities and protect freshwater resources across the globe
+Lỗi: this is → which is, stringent thiếu danh từ regulations, thiếu numerous metropolitan areas
+Bản dịch (lần 2): climate change has given rise to numerous major disasters, which is a pressing issue forcing authorities in metropolitan areas to implement/enrforce more stringent regulations to mitigate rampant pollution from industrial facilities and protect freshwater resources across the globe
+Lỗi: enrforce → enforce, thiếu numerous trước metropolitan areas
+Đáp án: Climate change has given rise to numerous major disasters, which is a pressing issue forcing authorities in numerous metropolitan areas to implement/enforce more stringent regulations to mitigate severe pollution from industrial facilities and protect freshwater resources across the globe.
+
+=== LỖI HAY LẶP LẠI ===
+
+1. give rise TO → quên "to" 2 lần
+2. comma splice (this is sau dấu phẩy) → mắc 2 lần → dùng "which is"
+3. tính từ thiếu danh từ (stringent ???) → luôn nhớ stringent REGULATIONS
+4. lỗi chính tả → disasters, authorities, facilities, enforce, about
+5. chủ ngữ số nhiều → have, không phải has
+6. invest ON/TO → invest IN (mắc 2 lần)
+7. impact TO → impact ON (mắc 2 lần)
+8. suppose ≠ believe/contend ("suppose" = giả sử)
+9. thiếu "a" trước danh từ đếm được số ít (a profound impact) → mắc nhiều lần
+10. lỗi chính tả hay mắc: resources, learners, generation, disasters, authorities, facilities, enforce, addicted
+11. give RAISE → give RISE (raise ≠ rise!)
+12. spend time TO V → spend time V-ing
+13. thiếu HAS/HAVE trước given rise to → mắc 2 lần
+14. make + O + V-ed → SAI, phải make + O + V nguyên mẫu
+15. inequally → KHÔNG TỒN TẠI! inequality (n), unequal (adj), equally (adv) → mắc 2 lần
+16. give RAISE → give RISE → mắc 2 lần! (raise = nâng lên, rise = sự tăng)
+17. economic (adj) ≠ economy (n): the global economy, không phải the global economic
+18. mitigate ≠ narrow: mitigate pollution/impact, narrow the gap/divide
+19. sau giới từ → V-ing: of being addicted (không phải of be addicted)

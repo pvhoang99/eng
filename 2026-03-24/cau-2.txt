@@ -1,0 +1,31 @@
+CÂU 2
+======
+
+VN: Hiện nay, ô nhiễm không khí đang trở thành một vấn đề nghiêm trọng ở nhiều thành phố lớn do khí thải từ các nhà máy và phương tiện giao thông.
+
+Cắt cụm:
+Hiện nay, | ô nhiễm không khí | đang trở thành | một vấn đề nghiêm trọng | ở nhiều thành phố lớn | do khí thải | từ các nhà máy | và phương tiện giao thông.
+
+BẢN DỊCH CỦA TÔI:
+In this day and age, the air pollution has become to a serious problem in thousands of big city because of the emissions from factory and public transport.
+
+LỖI NGỮ PHÁP:
+1. in the day and ages → in this day and age (cụm cố định, không có "s", dùng "this")
+2. air polution → air pollution (chính tả: 2 chữ "l")
+3. has become to → has become ("become" KHÔNG đi với "to")
+4. thousands of big city → many big cities ("nhiều" = many, danh từ đếm được phải số nhiều)
+5. from factory → from factories (danh từ đếm được số nhiều)
+6. public transport → vehicles ("phương tiện giao thông" = vehicles, không phải "public transport")
+
+CÂU ĐÃ SỬA:
+In this day and age, air pollution has become a serious problem in many big cities because of the emissions from factories and vehicles.
+
+NÂNG CẤP TỪ VỰNG:
+- in this day and age → Nowadays / At present (tự nhiên hơn trong academic writing)
+- big cities → major cities / metropolitan areas (trang trọng hơn)
+- serious problem → pressing issue / grave concern (mạnh và học thuật hơn)
+- because of → due to / as a result of (phổ biến trong IELTS writing)
+- factories → industrial facilities (nghe chuyên nghiệp hơn)
+
+CÂU NÂNG CẤP:
+Nowadays, air pollution has become a pressing issue in many major cities due to emissions from industrial facilities and vehicles.

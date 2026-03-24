@@ -1,0 +1,21 @@
+BOSS FIGHT - GIÁO DỤC + MÔI TRƯỜNG
+=====================================
+
+VN: Nhiều học giả cho rằng giáo dục kém chất lượng đã gây ra tác động sâu sắc đến thế hệ trẻ, đây là vấn đề cấp bách buộc cơ quan chức năng ở nhiều đô thị lớn phải phân bổ nguồn lực để nâng cao kết quả học tập của người học và giảm thiểu tỷ lệ thất nghiệp trên khắp thế giới.
+
+BẢN DỊCH CỦA TÔI:
+numerous scholars contend that poor-quality education has given rise to profound impact to young genrations, which is a pressing issue forcing authorities in many metropolitan areas to allocate resourses to enhance learning results of learners and mitigate unemployment rates across the globe
+
+LỖI:
+1. profound impact → A profound impact (thiếu "a")
+2. impact to → impact ON (cụm cố định)
+3. young genrations → the younger generation (chính tả + từ nâng cấp)
+4. resourses → resources (chính tả, lần 2!)
+5. many → numerous
+
+ĐÃ SỬA ĐƯỢC SO VỚI TRƯỚC:
+✓ which is (không dùng "this is" nữa)
+✓ given rise TO (không quên "to" nữa)
+
+CÂU ĐÃ SỬA:
+Numerous scholars contend that poor-quality education has given rise to a profound impact on the younger generation, which is a pressing issue forcing authorities in numerous metropolitan areas to allocate resources to elevate academic performance of learners and mitigate unemployment rates across the globe.

@@ -1,0 +1,28 @@
+CÂU 2 - GIÁO DỤC
+==================
+
+VN: Nhiều chuyên gia cho rằng việc đầu tư vào giáo dục đã gây ra tác động tích cực lớn đến sự phát triển kinh tế trên khắp thế giới, giúp giảm thiểu tỷ lệ thất nghiệp ở giới trẻ.
+
+BẢN DỊCH CỦA TÔI:
+numerous experts suppose investing to education given rise to major cumulative impact to economic development across the globe, mitigate unemployment rate in yiung people
+
+LỖI:
+1. suppose → believe / argue / contend ("suppose" = giả sử, không phải "cho rằng")
+2. investing to → investing IN (cụm cố định: invest IN sth)
+3. education given rise → education HAS given rise (thiếu trợ động từ "has")
+4. cumulative → positive / profound ("cumulative" = tích lũy, không phải "tích cực/sâu sắc")
+5. impact to → impact ON (cụm cố định: impact ON sth)
+6. mitigate → helping to mitigate (thiếu "helping to")
+7. yiung → young (chính tả)
+
+TỪ NÂNG CẤP MỚI:
+- experts → scholars / specialists (học giả / chuyên gia)
+- believe → contend / argue (cho rằng - academic)
+- investing in → allocating resources to (phân bổ nguồn lực)
+- positive impact → profound impact (tác động sâu sắc)
+- economic development → economic growth / economic prosperity (tăng trưởng / thịnh vượng)
+- unemployment rate → joblessness (thất nghiệp)
+- young people → the youth / the younger generation (giới trẻ / thế hệ trẻ)
+
+CÂU NÂNG CẤP:
+Numerous scholars contend that allocating resources to education has given rise to a profound impact on economic prosperity across the globe, helping to mitigate joblessness among the younger generation.

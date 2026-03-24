@@ -1,0 +1,27 @@
+CÂU 3 - KINH TẾ (Giải pháp)
+==============================
+
+Câu gốc: Do đó, các chuyên gia cho rằng việc phân bổ nguồn lực vào đào tạo nghề là biện pháp hiệu quả nhất để giảm thiểu tình trạng thất nghiệp và thu hẹp khoảng cách giàu nghèo giữa các quốc gia phát triển và đang phát triển.
+
+Cắt cụm:    Do đó | các chuyên gia | cho rằng | việc phân bổ nguồn lực | vào đào tạo nghề | là biện pháp hiệu quả nhất | để giảm thiểu | tình trạng thất nghiệp | và thu hẹp | khoảng cách giàu nghèo | giữa các quốc gia PT và đang PT
+Chức năng:  liên từ | Hột (S)       | ĐTC      | Việc (S)               | y thuần           | ĐTC + Hột (O)              | y để - to Verb | Hột (O)              | liên từ + ĐTC | Hột (O)              | y thuần
+
+BẢN DỊCH CỦA TÔI:
+therefore, experts contend that allocating resources to vocational training is the most effective measure to mitigate unemployment situation and income inequally between developed and developing nations
+
+LỖI:
+1. experts → scholars (đã học từ nâng cấp)
+2. unemployment situation → joblessness (đã học)
+3. income inequally → income inequality (lần 2! inequally không tồn tại)
+4. mitigate inequality → narrow the wealth gap ("thu hẹp" = narrow/bridge, không phải mitigate)
+
+PHÂN BIỆT "thu hẹp" vs "giảm thiểu":
+- giảm thiểu = mitigate → dùng với: pollution, impact, joblessness
+- thu hẹp = narrow / bridge → dùng với: gap, disparity, divide
+
+CÂU ĐÃ SỬA:
+Therefore, scholars contend that allocating resources to vocational training is the most effective measure to mitigate joblessness and narrow the wealth gap between developed and developing nations.
+
+TỪ NÂNG CẤP MỚI:
+- vocational training → vocational education and training (VET) (đào tạo nghề)
+- narrow the gap → bridge the gap / close the divide (thu hẹp khoảng cách)

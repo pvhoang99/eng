@@ -1,0 +1,36 @@
+CÂU 2 - CÔNG NGHỆ (Vấn đề)
+=============================
+
+Câu gốc: Nghiện điện thoại thông minh đã gây ra nhiều vấn đề cấp bách về sức khỏe tinh thần, khiến kết quả học tập của người học suy giảm nghiêm trọng ở nhiều đô thị lớn.
+
+Cắt cụm:    Nghiện ĐTTM | đã gây ra | nhiều vấn đề cấp bách | về sức khỏe tinh thần | khiến KQHT | của người học | suy giảm nghiêm trọng | ở nhiều đô thị lớn
+Chức năng:  Việc (S)     | ĐTC       | Hột (O)               | y thuần                | y trùng chủ ngữ - Ving | y thuần  | ĐTC                    | y thuần
+
+BẢN DỊCH CỦA TÔI:
+Being additected to smartphones has given raise to numerous pressing issues about mental health making academic performance of learners seriously deceasred in many metropolitan areas
+
+LỖI:
+1. additected → addicted (chính tả)
+2. given raise → given RISE (raise = nâng lên, rise = sự tăng. Cụm: give RISE to)
+3. deceasred → decreased (chính tả)
+4. making... seriously decreased → causing... to decline severely (make + O + V nguyên mẫu, cause + O + to V)
+
+PHÂN BIỆT:
+- raise (v) = nâng lên (raise your hand)
+- rise (n/v) = sự tăng / tăng lên (give rise to)
+
+CẤU TRÚC "KHIẾN":
+- make + O + V nguyên mẫu: make performance decline
+- cause + O + to V: cause performance to decline
+- SAI: make + O + V-ed
+
+CÂU ĐÃ SỬA:
+Being addicted to smartphones has given rise to numerous pressing issues regarding psychological well-being, causing academic performance of learners to decline severely in numerous metropolitan areas.
+
+TỪ NÂNG CẤP MỚI:
+- decreased → declined / deteriorated (suy giảm / xuống cấp)
+- seriously → severely / drastically (nghiêm trọng)
+- about → regarding / concerning (về - formal)
+- mental health → psychological well-being (sức khỏe tâm lý)
+- social media → social networking platforms (nền tảng mạng xã hội)
+- smartphone addiction (danh từ) = nghiện điện thoại

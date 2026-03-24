@@ -1,0 +1,33 @@
+CÂU 1 - CÔNG NGHỆ (Bối cảnh)
+==============================
+
+Câu gốc: Trước kia, trẻ em thường dành thời gian chơi ngoài trời, nhưng sự phát triển của công nghệ đã thay đổi hoàn toàn thói quen sinh hoạt của thế hệ trẻ.
+
+Cắt cụm:    Trước kia | trẻ em | thường dành | thời gian | chơi ngoài trời | nhưng | sự phát triển | của công nghệ | đã thay đổi | hoàn toàn | thói quen sinh hoạt | của thế hệ trẻ
+Chức năng:  y ĐTC     | Hột (S)| ĐTC         | Hột (O)   | y để - to Verb   | liên từ| Hột (S)       | y thuần       | ĐTC         | trạng từ   | Hột (O)             | y thuần
+
+BẢN DỊCH CỦA TÔI:
+in the past, children often spent time to hangout, but the development of technology has changed completely .... of younger generation
+
+LỖI:
+1. spent time to hangout → spent time playing outdoors (spend time V-ing, không phải to V)
+2. has changed completely → has completely changed (trạng từ đứng giữa has + V3)
+3. .... → lifestyle habits (thói quen sinh hoạt)
+4. of younger generation → of the younger generation (cần "the")
+
+CỤM CỐ ĐỊNH:
+- spend time V-ing (không phải to V)
+- has completely changed (trạng từ giữa has + V3)
+
+CÂU ĐÃ SỬA:
+In the past, children often spent time playing outdoors, but the development of technology has completely changed lifestyle habits of the younger generation.
+
+TỪ NÂNG CẤP MỚI:
+- children → youngsters (trẻ em / giới trẻ)
+- development → advancement / emergence (sự tiến bộ / sự xuất hiện)
+- changed completely → drastically transformed (thay đổi hoàn toàn)
+- lifestyle habits → daily routines / behavioral patterns (thói quen / hành vi)
+- playing outdoors → engaging in outdoor activities (tham gia hoạt động ngoài trời)
+
+CÂU NÂNG CẤP:
+In the past, youngsters often spent time engaging in outdoor activities, but the advancement of technology has drastically transformed behavioral patterns of the younger generation.
