@@ -1,0 +1,104 @@
+ÔN TẬP NGÀY 26/3/2026
+======================
+
+=== ÔN TỪ CŨ (10/10 đúng hết!) ===
+✓ give rise to, detrimental effects, authorities, measures, regarding
+✓ contend that, economic prosperity, narrow the gap, vocational training
+✓ has widened significantly
+
+=== CÂU DỊCH ===
+
+Câu ngắn 1 (Môi trường + Sức khỏe):
+Bản dịch: severe pollution has given rise to profound impact to the mental health of younger generation
+Lỗi:
+- thiếu "a" → a profound impact (đếm được số ít!)
+- impact TO → impact ON (lỗi cũ!)
+- thiếu "the" → the younger generation (lỗi cũ!)
+
+Câu ngắn 2 (Kinh tế - từ mới):
+Bản dịch: the shortage of skilled workforce has hindered the econimic advencement in numerous developing nations
+✓ shortage, skilled workforce, hindered (từ mới dùng đúng!)
+Lỗi: econimic → economic, advencement → advancement (chính tả)
+
+Câu ngắn 3 (Kinh tế - từ mới):
+Bản dịch: excessive spending of government has exacerbated inflation, forcing authorities to cut budgets down
+✓ excessive spending, exacerbated, inflation (từ mới dùng đúng!)
+Lỗi: of government → of THE government, cut budgets down → cut budgets (không cần "down")
+
+Câu ngắn 4 (trộn từ cũ + mới):
+Bản dịch: the shortage of skilled workforce has exacerbated the wealth gap, forcing authorities to allocate vocational training to enhance awareness regarding the importance of education
+Lỗi: allocate vocational training → allocate RESOURCES TO vocational training (allocate cần tân ngữ "resources")
+
+Câu dài 5 - Boss fight (cấu trúc 2 câu - KHÔNG dùng "forcing"):
+Bản dịch: nowadays, exceed spending is exacerbating the shortage of skilled workforce, hindering economic prosperity and giving rise to detrimental effects on younger generation. therefore, scholars contend that allocating resources to vocational training is the most effective measure to mitigate unemployment rates across the globe
+✓ Cấu trúc 2 câu mượt!
+✓ giving rise to, detrimental effects ON, contend, allocate resources to, measure (số ít), mitigate
+Lỗi:
+- exceed → excessive (exceed = vượt quá (v), excessive = quá mức (adj))
+- thiếu "the" → the younger generation
+- thiếu "numerous" → numerous scholars
+
+Câu ngắn 6 (Xã hội - từ mới):
+Bản dịch: increasing crime rates has threatened the public safety in major cities
+✓ crime rates, threatened, public safety (từ mới dùng đúng!)
+Lỗi:
+- rates HAS → rates HAVE (số nhiều!)
+- THE public safety → public safety (khái niệm chung, không cần "the")
+
+Câu ngắn 7 (Môi trường):
+Bản dịch: climate change has exacerbated the shortage of freshwater resources, threatening the public safety
+Lỗi: THE public safety → public safety (vừa học!)
+
+Câu ngắn 8 (Giáo dục):
+Bản dịch: poverty has hindered the ability of accessing quality education
+Lỗi: the ability OF ACCESSING → the ability TO ACCESS (ability to + V)
+Gọn hơn: access to quality education (không cần "the ability")
+
+Câu ngắn 9 (Kinh tế + Xã hội):
+Bản dịch: increasing crime rates have caused/given rise to profound impact on economy, hindering the ability to access stable employment
+✓ have (số nhiều!), impact ON, hindering, the ability to access
+Lỗi:
+- thiếu "a" → a profound impact
+- thiếu "the" → the economy
+
+=== TỪ MỚI HỌC NGÀY 26/3 ===
+1. shortage = thiếu hụt → the shortage of skilled workforce
+2. skilled workforce = nhân lực có trình độ
+3. hinder = cản trở
+4. excessive = quá mức (adj) ≠ exceed = vượt quá (v)
+5. exacerbate = làm trầm trọng thêm (đọc: ig-ZA-sơ-beit)
+6. inflation = lạm phát
+7. cut budgets = cắt giảm ngân sách
+8. crime rates = tỷ lệ tội phạm
+9. threaten = đe dọa
+10. public safety = an toàn công cộng
+11. poverty = nghèo đói
+12. access to = khả năng tiếp cận
+13. stable employment = việc làm ổn định
+14. climate change = biến đổi khí hậu
+15. the importance = tầm quan trọng
+
+=== LỖI HAY LẶP LẠI ===
+1. impact/effects ON (không phải TO) - vẫn sai!
+2. the younger generation - vẫn hay quên "the"
+3. a profound impact - vẫn hay quên "a"
+4. public safety - không cần "the" (khái niệm chung)
+5. the economy - cần "the" (nền kinh tế cụ thể)
+6. have (số nhiều) không phải has - crime rates HAVE
+7. ability TO V (không phải ability of V-ing)
+8. allocate RESOURCES TO sth (allocate cần tân ngữ!)
+9. excessive (adj) ≠ exceed (v)
+
+=== PHÂN BIỆT THÚ VỊ ===
+Tiếng Việt hay thêm từ đệm, tiếng Anh gọn hơn:
+- "tình trạng thiếu hụt" = the shortage of (không cần "the situation of shortage")
+- "khả năng tiếp cận" = access to (không cần "the ability to access")
+- "vấn đề ô nhiễm" = pollution (không cần "the problem of pollution")
+→ Dịch sát cũng đúng nhưng dịch gọn được điểm IELTS cao hơn
+
+=== CẦN ÔN LẠI NGÀY MAI ===
+1. Giới từ: impact ON, allocate TO, access TO
+2. Mạo từ: a profound impact, the economy, the younger generation, KHÔNG the public safety
+3. Số ít/nhiều: rates HAVE, measure (số ít khi dùng "the most effective")
+4. Chính tả: economic, advancement, performance, resources
+5. Từ mới: shortage, hinder, exacerbate, excessive, inflation, poverty, crime rates, public safety
