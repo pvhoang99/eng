@@ -1,0 +1,26 @@
+CÂU 2 - XÃ HỘI (Vấn đề)
+===========================
+
+Câu gốc: Tắc nghẽn giao thông và thiếu nhà ở là những vấn đề cấp bách buộc cơ quan chức năng phải thực thi các biện pháp nghiêm ngặt hơn để giảm thiểu tác hại đến cuộc sống của thế hệ trẻ.
+
+BẢN DỊCH CỦA TÔI:
+traffic congestion and lack of house is a pressing issue forcing authorities to implement more stringent measures to mitigate dimentrial effects on living conditions of young generation
+
+LỖI:
+1. lack of house → lack of housing (housing = nhà ở chung, house = 1 cái nhà)
+2. is a pressing issue → are pressing issues (2 vấn đề = số nhiều)
+3. dimentrial → detrimental (chính tả: de-tri-men-tal)
+4. young generation → the younger generation (cần "the" + "younger")
+
+PHÂN BIỆT:
+- house = 1 cái nhà (đếm được)
+- housing = nhà ở (khái niệm chung, không đếm)
+- household = hộ gia đình
+
+TỪ NÂNG CẤP:
+- traffic congestion → traffic gridlock (tắc nghẽn nặng)
+- lack of housing → housing shortage / housing crisis (thiếu nhà ở / khủng hoảng nhà ở)
+- living conditions → quality of life / living standards (chất lượng cuộc sống)
+
+CÂU NÂNG CẤP:
+Traffic gridlock and housing shortage are pressing issues forcing authorities to implement more stringent measures to mitigate detrimental effects on the quality of life of the younger generation.

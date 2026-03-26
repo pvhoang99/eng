@@ -1,0 +1,34 @@
+CÂU 3 - DU LỊCH (Giải pháp)
+==============================
+
+Câu gốc: Do đó, cơ quan chức năng cần thực thi các biện pháp nghiêm ngặt hơn để bảo vệ văn hóa truyền thống và giữ gìn môi trường, buộc du khách phải tuân thủ các quy định của địa phương.
+
+BẢN DỊCH CỦA TÔI:
+therfore, the authority should implement more stringent measures to protect culture and preserve environment forcing visitors to imply the regulations of local
+
+LỖI:
+1. therfore → therefore (chính tả)
+2. the authority → authorities (không "the", số nhiều)
+3. culture → the traditional culture (thiếu "traditional" + cần "the")
+4. environment → the environment (cần "the" vì cụ thể)
+5. imply → comply with (imply = ngụ ý ≠ comply with = tuân thủ)
+6. regulations of local → local regulations (tính từ đặt TRƯỚC danh từ)
+
+PHÂN BIỆT:
+- imply = ngụ ý, ám chỉ
+- comply with = tuân thủ
+- apply = áp dụng / nộp đơn
+- implement = thực thi
+
+KHI NÀO DÙNG "THE":
+- CÓ the: the environment, the traditional culture, the younger generation (cụ thể)
+- KHÔNG the: climate change, education, pollution (khái niệm chung)
+
+TỪ NÂNG CẤP MỚI:
+- protect culture → safeguard cultural heritage (bảo vệ di sản văn hóa)
+- preserve environment → conserve the natural environment (bảo tồn môi trường)
+- comply with → adhere to / abide by (tuân thủ - formal)
+- local regulations → municipal regulations (quy định địa phương)
+
+CÂU NÂNG CẤP:
+Therefore, authorities should implement more stringent measures to safeguard cultural heritage and conserve the natural environment, forcing visitors to adhere to municipal regulations.

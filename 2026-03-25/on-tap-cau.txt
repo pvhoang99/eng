@@ -1,0 +1,38 @@
+CÂU ÔN TẬP NGÀY 2026-03-25
+=============================
+
+Câu ôn 1 (ngắn):
+VN: Cơ quan chức năng cần bảo vệ di sản văn hóa và bảo tồn nguồn nước sạch cho cư dân.
+Bản dịch: authorities should implement safeguard cultural heritage and preserve freshwater resources for residents
+Lỗi:
+- implement safeguard → safeguard (safeguard đã là động từ, implement + danh từ thôi)
+- preserve → conserve (conserve dùng với tài nguyên)
+Đáp án: Authorities should safeguard cultural heritage and conserve freshwater resources for residents.
+
+Câu ôn 2 (trung bình):
+VN: Nhiều học giả cho rằng giáo dục kém chất lượng đã gây ra tác hại nghiêm trọng đến sức khỏe tâm lý của người học, buộc cơ quan chức năng phải thay đổi hoàn toàn kết quả học tập trên khắp thế giới.
+Bản dịch: numerous scholars contend that poor-quality education given rise to detrimental effects on psychological well-being off learners, forcing authorities to drastically transform ecademic performances across the globe
+Lỗi:
+- given rise → HAS given rise (thiếu has!)
+- off → of (chính tả, 1 chữ f)
+- ecademic → academic (bắt đầu bằng A không phải E)
+- performances → performance (không thêm s)
+Tiến bộ: ✓ detrimental effects ON, ✓ psychological well-being, ✓ drastically transform, ✓ learners
+
+Câu ôn 3 (boss fight):
+VN: Với sự phát triển của ngành du lịch, nhiều đô thị lớn trở nên đông đúc và hỗn loạn, gây ra tác hại nghiêm trọng đến hệ sinh thái địa phương, buộc cơ quan chức năng phải thực thi các biện pháp nghiêm ngặt hơn để giảm thiểu ô nhiễm và bảo vệ di sản văn hóa.
+Bản dịch: with the advancement of tourism industry, numerous metropolitan areas are becoming congested and chaotic, giving rise to detrimental effects on local ecosystem, forcing authorities to implement more stringent measures to decline pollution and safeguard cultural heritage
+Lỗi:
+- tourism industry → THE tourism industry (cần the)
+- local ecosystem → THE local ecosystem (cần the)
+- decline pollution → mitigate pollution (decline = tự giảm, không mang tân ngữ!)
+Tiến bộ: ✓ giving rise TO, ✓ effects ON, ✓ chaotic (không s), ✓ safeguard cultural heritage, ✓ authorities (không the)
+
+PHÂN BIỆT decline vs mitigate vs decrease:
+- decline = tự giảm (không tân ngữ): Performance declined
+- mitigate = giảm thiểu (có tân ngữ): Authorities mitigate pollution
+- decrease = cả hai: Spending decreased / Government decreased spending
+
+IMPLEMENT + GÌ?
+- implement + DANH TỪ: measures, regulations, policies
+- KHÔNG: implement + động từ khác (implement safeguard ✗)

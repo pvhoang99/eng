@@ -1,0 +1,25 @@
+CÂU 3 - XÃ HỘI (Giải pháp)
+==============================
+
+Câu gốc: Do đó, các học giả cho rằng việc phân bổ nguồn lực vào cơ sở hạ tầng giao thông và nhà ở là biện pháp hiệu quả nhất để nâng cao chất lượng cuộc sống và thu hẹp khoảng cách giàu nghèo giữa khu vực đô thị và nông thôn.
+
+BẢN DỊCH CỦA TÔI:
+therefore, scholars contend that allocating resources to traffic ... and housing is the most effective measure to raise living standards and narrow the wealth gap between urban and .. site
+
+LỖI:
+1. traffic ... → transport/traffic infrastructure (cơ sở hạ tầng giao thông)
+2. ... site → rural areas (khu vực nông thôn. site = công trường/địa điểm)
+3. raise → elevate (đã học từ nâng cấp)
+
+TỪ MỚI:
+- infrastructure = cơ sở hạ tầng
+- urban areas = khu vực đô thị
+- rural areas = khu vực nông thôn
+- site = công trường / địa điểm (KHÁC rural)
+
+TỪ NÂNG CẤP:
+- transport infrastructure → public transit systems (hệ thống giao thông công cộng)
+- urban and rural → urban and rural communities (cộng đồng đô thị và nông thôn)
+
+CÂU NÂNG CẤP:
+Therefore, scholars contend that allocating resources to public transit systems and housing is the most effective measure to elevate living standards and narrow the wealth gap between urban and rural communities.

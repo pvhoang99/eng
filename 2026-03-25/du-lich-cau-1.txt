@@ -1,0 +1,37 @@
+CÂU 1 - DU LỊCH (Bối cảnh - ngắn)
+====================================
+
+Câu gốc: Trước kia, thành phố này rất yên bình và phù hợp cho cả người dân lẫn du khách.
+
+Cắt cụm:    Trước kia | thành phố này | rất yên bình | và phù hợp | cho cả người dân | lẫn du khách
+Chức năng:  y ĐTC     | Hột (S)       | ĐTC          | liên từ + ĐTC | y thuần        | liên từ + y thuần
+
+BẢN DỊCH CỦA TÔI:
+in the old day, this metropholitan area is very peaceful and suit for locals and travelers
+
+LỖI:
+1. old day → old days (số nhiều, cụm cố định: in the old days)
+2. metropholitan → metropolitan (chính tả). Và "thành phố" = city, không phải metropolitan area
+3. is → was ("trước kia" = quá khứ → was)
+4. suit for → suitable for (sau is/was cần tính từ, không phải động từ)
+
+PHÂN BIỆT:
+- suit (v) = hợp → This suits me
+- suitable (adj) = phù hợp → This is suitable for locals
+- suited (adj) = phù hợp → This is suited to/for locals
+
+GHI NHỚ:
+- "cả... lẫn..." = both... and... / ...alike
+
+CÂU ĐÃ SỬA:
+In the old days, this city was very peaceful and suitable for both locals and travelers.
+
+TỪ NÂNG CẤP MỚI:
+- peaceful → tranquil / serene (yên bình)
+- suitable for → ideal for / well-suited for (lý tưởng cho)
+- locals → residents / inhabitants (cư dân)
+- travelers → tourists / visitors (du khách)
+- both... and... → ...alike (cả... lẫn..., đặt cuối câu)
+
+CÂU NÂNG CẤP:
+In the old days, this city was tranquil and ideal for residents and visitors alike.
