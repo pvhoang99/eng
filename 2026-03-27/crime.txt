@@ -1,0 +1,50 @@
+TỪ MỚI - CRIME & PUNISHMENT (Tội phạm & Hình phạt) - Ngày 27/3/2026
+=====================================================================
+
+=== TỪ VỰNG MỚI ===
+
+ #  | Cơ bản                | Nâng cấp                       | Đọc gần đúng                    | Nghĩa
+----+-----------------------+--------------------------------+----------------------------------+---------------------------
+ 1  | crime                 | criminal activities             | /CRI-mơ-nồ ác-TI-vơ-tiz/       | hoạt động tội phạm
+ 2  | do crime              | commit offences                 | /cơ-MÍT ơ-FEN-sịz/             | phạm tội
+ 3  | criminal (người)      | offender / perpetrator          | /ơ-FEN-đờ / PỜ-pơ-tray-tờ/     | người phạm tội / thủ phạm
+ 4  | punishment            | penalty / sentence              | /PE-nồ-ti / SEN-tần/            | hình phạt / bản án
+ 5  | put in jail           | incarcerate / imprison          | /in-CAR-sơ-reit/                | bỏ tù
+ 6  | stop crime            | deter crime                     | /đi-TỜ craim/                   | răn đe tội phạm
+ 7  | go back to crime      | reoffend / recidivism           | /ri-ơ-FEND / ri-SI-đi-vi-zầm/  | tái phạm
+ 8  | fix criminals         | rehabilitate offenders          | /ri-hơ-BI-li-teit/              | cải tạo phạm nhân
+ 9  | watching by police    | surveillance                    | /sờ-VEI-lần/                    | giám sát
+10  | keep people safe      | maintain public order           | /mein-TEIN PÁ-blík OR-đờ/      | duy trì trật tự công cộng
+
+=== PHÂN BIỆT QUAN TRỌNG ===
+
+1. deter vs rehabilitate:
+   - deter = răn đe → ngăn TRƯỚC khi phạm tội → deter crime
+   - rehabilitate = cải tạo → sửa SAU khi phạm tội → rehabilitate offenders
+
+2. penalty vs sentence:
+   - penalty = hình phạt cụ thể (phạt tiền, tù...) → severe penalties
+   - sentence = bản án (tòa tuyên) → a prison sentence
+
+3. offender vs perpetrator:
+   - offender = người phạm tội (chung) → juvenile offenders
+   - perpetrator = thủ phạm (cụ thể vụ án) → the perpetrator of the attack
+
+4. remain vs maintain:
+   - remain = ở lại, vẫn còn (KHÔNG có tân ngữ) → rates remain high
+   - maintain = duy trì (CÓ tân ngữ) → maintain public order
+
+5. severe vs stringent:
+   - severe + penalties, punishment (hình phạt)
+   - stringent + measures, regulations, policies (quy định, biện pháp)
+
+=== COLLOCATION ===
+
+- crime rates (KHÔNG criminal rates)
+- severe penalties / harsher penalties
+- commit offences
+- deter crime / deter criminal activities
+- rehabilitate offenders
+- reoffending rates / recidivism rates
+- maintain public order
+- surveillance cameras / under surveillance

@@ -1,0 +1,89 @@
+TỪ HAY QUÊN - CẬP NHẬT 27/3/2026
+===================================
+
+=== CHÍNH TẢ SAI NHIỀU LẦN (ƯU TIÊN 1) ===
+
+ Từ đúng     | Hay viết sai       | Số lần | Cách nhớ
+-------------+--------------------+--------+---------------------------
+ chronic     | choronic, chroro   | 4+     | CHROME → CHRO-NIC
+ resources   | resouces           | 4+     | re-SOURCE-s (nguồn = source)
+ excessive   | excesive           | 2      | exce-SS-ive (2 chữ S)
+ economic    | econimic           | 3+     | eco-NO-mic
+ children    | chilren            | 2      | child-REN
+ advancement | advencement        | 2      | ad-VANCE-ment
+
+=== GIỚI TỪ SAI NHIỀU LẦN (ƯU TIÊN 2) ===
+
+ Đúng                    | Hay viết sai    | Số lần | Mẹo
+--------------------------+-----------------+--------+---------------------------
+ effects ON              | effects to      | 7+     | Tác động LÊN = ON
+ impact ON               | impact to       | 7+     | Tác động LÊN = ON
+ pressure ON             | pressure to     | 3+     | Tác động LÊN = ON
+ allocate resources TO   | allocate to     | 2      | allocate cần tân ngữ!
+ access TO               | access of       | 1      | access TO quality education
+ ability TO V            | ability of V-ing| 2      | ability TO + nguyên mẫu
+
+→ QUY TẮC: effects/impact/pressure + ON. Không bao giờ TO!
+
+=== PHÂN BIỆT HAY NHẦM ===
+
+1. prevalent (adj) vs prevalence (noun)
+   - Obesity is prevalent (tính từ, sau "is")
+   - the prevalence of obesity (danh từ, sau "the...of")
+   → Sai 3 lần: viết "prevalant", "prevalent of"
+
+2. remain vs maintain
+   - remain = ở lại, vẫn còn (KHÔNG có tân ngữ) → rates remain high
+   - maintain = duy trì (CÓ tân ngữ) → maintain public order
+   → Sai: remaining public order ✗ → maintaining public order ✓
+
+3. deter vs rehabilitate
+   - deter = răn đe (ngăn TRƯỚC khi phạm tội)
+   - rehabilitate = cải tạo (sửa SAU khi phạm tội)
+
+4. severe vs stringent
+   - severe + penalties, punishment (hình phạt)
+   - stringent + measures, regulations (quy định)
+
+5. popular vs prevalent
+   - popular = được yêu thích (K-pop)
+   - prevalent = phổ biến (bệnh tật, tội phạm)
+
+6. health vs healthcare vs medical
+   - health + policies, issues, risks
+   - healthcare + system, services, workers
+   - medical + treatment, research, professionals
+
+7. excessive (adj) vs exceed (v)
+   - excessive spending (tính từ)
+   - exceed the limit (động từ)
+
+=== COLLOCATION HAY SAI ===
+
+ Đúng                | Sai                  | Ghi chú
+---------------------+----------------------+----------------------------
+ crime rates         | criminal rates       | Cụm cố định!
+ severe penalties    | stringent penalties  | stringent + measures
+ quality of life     | life living standards| Không trộn 2 cụm!
+
+=== MẠO TỪ HAY SAI ===
+
+CẦN "a":  a profound impact, a sedentary lifestyle, a pressing issue
+CẦN "the": the economy, the younger generation, the healthcare system
+KHÔNG "the": public safety, climate change, education, obesity
+
+=== SỐ ÍT / NHIỀU ===
+
+ Đúng            | Hay sai          | Mẹo
+-----------------+------------------+----------------------------
+ rates HAVE      | rates has        | Số nhiều → HAVE
+ nations HAVE    | nations has      | Số nhiều → HAVE
+ have V3         | have V nguyên    | have incarcerated ✓
+
+=== TỪ CŨ ĐÃ NHỚ CHẮC ===
+✓ give rise to, detrimental effects, authorities, measures, regarding
+✓ contend that, economic prosperity, narrow the gap, vocational training
+✓ exacerbate, shortage, hinder, poverty, threaten
+✓ prompting, thereby, prevalence (nghĩa), metropolitan areas
+✓ a profound impact (đã nhớ "a"), the economy (đã nhớ "the")
+✓ public safety (đã nhớ không "the")

@@ -1,0 +1,106 @@
+ÔN TẬP NGÀY 27/3/2026
+======================
+
+=== ÔN TỪ CŨ (7/10 đúng) ===
+
+✓ a profound impact on (đúng mạo từ + giới từ!)
+✓ the younger generation (đúng "the"!)
+✓ the shortage of skilled workforce
+✓ exacerbate
+✓ public safety (không "the"!)
+✓ the economy (đúng "the"!)
+✓ access to quality education
+
+✗ chronic → viết "chroro" (vẫn chưa nhớ! CHROME → CHRO-NIC)
+✗ excessive → viết "excesive" (thiếu 1 chữ S → exce-SS-ive)
+✗ resources → viết "resouces" (lỗi cũ lần 4! re-SOURCE-s)
+
+=== CÂU DỊCH - CRIME & PUNISHMENT ===
+
+Câu 1 (ngắn):
+VN: Sự phổ biến của hoạt động tội phạm đã đe dọa an toàn công cộng ở nhiều đô thị lớn.
+Bản dịch: the prevalence of criminal activities has threatened public safety in metropolitan areas
+Lỗi: thiếu "numerous" → in numerous metropolitan areas
+✓ prevalence, public safety (không the), threatened (đúng chính tả)
+
+Câu 2 (trung bình):
+VN: Tỷ lệ tội phạm tăng cao đã gây ra tác hại nghiêm trọng đến chất lượng cuộc sống, thúc đẩy cơ quan chức năng thực thi các hình phạt nghiêm khắc hơn để răn đe tội phạm.
+Bản dịch: increasing criminal rates have given rise to detrimental effects to life living standards, prompting authorities to implement more stringent ... to deter crime
+Lỗi:
+- criminal rates → crime rates (cụm cố định!)
+- effects TO → effects ON (lỗi cũ lặp lại!)
+- life living standards → quality of life (trộn 2 cụm)
+- stringent → severe penalties (stringent + measures/regulations, penalties = severe)
+
+Câu 3 (trung bình - thereby):
+VN: Nhiều quốc gia đã bỏ tù những người phạm tội, nhưng tỷ lệ tái phạm vẫn cao, qua đó gây áp lực lên hệ thống y tế và cản trở sự phát triển kinh tế.
+Bản dịch: numerous nations has incarcerate offenders, but reoffending rates remain high, thereby putting pressure to the healthcare system and hinder econimic advancement
+Lỗi:
+- nations HAS → nations HAVE (số nhiều!)
+- have incarcerate → have incarcerated (have + V3!)
+- pressure TO → pressure ON (lại TO!)
+- hinder → hindering (thereby + V-ing AND V-ing → song song)
+- econimic → economic (lỗi cũ! eco-NO-mic)
+✓ incarcerate, offenders, reoffending rates, thereby, healthcare system
+
+Câu 4 (Boss Fight):
+VN: Sự phổ biến của hoạt động tội phạm ở nhiều đô thị lớn đã gây ra tác hại nghiêm trọng đến an toàn công cộng, thúc đẩy cơ quan chức năng thực thi các hình phạt nghiêm khắc hơn và cải tạo người phạm tội để giảm tỷ lệ tái phạm, qua đó duy trì trật tự công cộng.
+Bản dịch: the prevalant of criminal activities in numerous metropolitan areas has given rise to detrimental effects to public safety, prompting authorities to implement severe penalties and deter offenderes to decrease reoffending rates, thereby remaining public order
+Lỗi:
+- prevalant → prevalence (sau "the...of" cần DANH TỪ!)
+- effects TO → effects ON (lần thứ 3!)
+- severe → more severe ("nghiêm khắc hơn" = more severe)
+- deter → rehabilitate (deter = răn đe trước, rehabilitate = cải tạo sau)
+- offenderes → offenders (thừa chữ "e")
+- remaining → maintaining (remain = ở lại, không có tân ngữ. maintain = duy trì, có tân ngữ)
+✓ prompting, thereby, metropolitan areas, public safety (không the!), reoffending rates
+
+=== TỪ MỚI HỌC NGÀY 27/3 - CRIME & PUNISHMENT ===
+
+1. criminal activities = hoạt động tội phạm
+2. commit offences = phạm tội
+3. offender = người phạm tội (chung) / perpetrator = thủ phạm (cụ thể)
+4. penalty = hình phạt cụ thể / sentence = bản án (tòa tuyên)
+5. incarcerate / imprison = bỏ tù
+6. deter crime = răn đe tội phạm (ngăn TRƯỚC)
+7. rehabilitate offenders = cải tạo phạm nhân (sửa SAU)
+8. reoffend / recidivism = tái phạm
+9. surveillance = giám sát
+10. maintain public order = duy trì trật tự công cộng
+
+=== COLLOCATION QUAN TRỌNG ===
+
+- crime rates (KHÔNG criminal rates)
+- severe penalties (KHÔNG stringent penalties)
+- stringent measures / regulations (stringent + quy định)
+- more severe = nghiêm khắc hơn
+
+=== LỖI LẶP LẠI NHIỀU NHẤT ===
+
+1. effects/impact/pressure ON (KHÔNG TO!) — sai 3 lần trong 1 buổi!!!
+   → Mẹo: Tác động LÊN = ON. Không bao giờ TO!
+2. prevalent (adj) vs prevalence (noun) — sau "the...of" cần prevalence
+3. remain (ở lại, không tân ngữ) vs maintain (duy trì, có tân ngữ)
+4. Chính tả: chronic, excessive, resources, economic — vẫn hay sai
+
+=== PHÂN BIỆT MỚI ===
+
+1. deter vs rehabilitate:
+   - deter = răn đe → ngăn TRƯỚC khi phạm tội
+   - rehabilitate = cải tạo → sửa SAU khi phạm tội
+
+2. remain vs maintain:
+   - remain = ở lại, vẫn còn (KHÔNG có tân ngữ) → rates remain high
+   - maintain = duy trì (CÓ tân ngữ) → maintain public order
+
+3. severe vs stringent:
+   - severe + penalties, punishment (hình phạt)
+   - stringent + measures, regulations, policies (quy định, biện pháp)
+
+=== CẦN ÔN LẠI NGÀY MAI ===
+
+1. Giới từ: effects ON, impact ON, pressure ON — viết 10 lần cho nhớ!
+2. Chính tả: chronic, excessive, resources, economic, incarcerate
+3. Phân biệt: prevalent/prevalence, remain/maintain, deter/rehabilitate
+4. Ngữ pháp: have + V3 (incarcerated), thereby + V-ing AND V-ing (song song)
+5. Collocation: crime rates, severe penalties, stringent measures

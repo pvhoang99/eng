@@ -1,0 +1,121 @@
+TỪ MỚI - SỨC KHỎE (HEALTH) - Ngày 26/3/2026
+==============================================
+
+=== TỪ VỰNG MỚI ===
+
+ #  | Cơ bản                | Nâng cấp                       | Đọc gần đúng                    | Nghĩa
+----+-----------------------+--------------------------------+----------------------------------+---------------------------
+ 1  | get sick              | contract a disease             | /con-TRACT ơ đi-DÌZ/            | mắc bệnh
+ 2  | stop / prevent        | curb / combat                  | /cớb / COM-bát/                  | ngăn chặn / chống lại
+ 3  | spread (of disease)   | the prevalence of              | /đờ PRE-vơ-lần ov/              | sự phổ biến của
+ 4  | unhealthy lifestyle   | sedentary lifestyle            | /SÉ-đần-te-ri LAI-stai-ồ/      | lối sống ít vận động
+ 5  | fat / overweight      | obesity (n) / obese (adj)      | /ô-BÌ-sơ-ti / ô-BÌS/           | béo phì
+ 6  | lack of food          | malnutrition                   | /mal-niu-TRI-shần/               | suy dinh dưỡng
+ 7  | hospitals, doctors    | healthcare system              | /HÉO-keo SÍS-tầm/              | hệ thống y tế
+ 8  | get better            | recover from                   | /ri-CÓ-vờ frầm/                 | hồi phục từ
+ 9  | health problems       | chronic illnesses              | /CRÓ-ník ÍL-nơ-sịz/            | bệnh mãn tính
+10  | public health rules   | public health policies         | /PÁ-blík hélth PÓ-lơ-siz/      | chính sách y tế công
+
+=== PHÂN BIỆT QUAN TRỌNG ===
+
+1. curb vs combat:
+   - curb = kiềm chế, hạn chế → curb obesity, curb smoking
+   - combat = chống lại (mạnh hơn curb) → combat disease, combat malnutrition
+
+2. prevalence (n) vs prevalent (adj):
+   - the prevalence of obesity (danh từ, sau "the...of")
+   - Obesity is prevalent (tính từ, sau "is")
+
+3. popular vs prevalent:
+   - popular = được yêu thích (tích cực) → the popularity of K-pop
+   - prevalent = phổ biến (bệnh tật, tiêu cực) → the prevalence of disease
+   ⚠ BỆNH TẬT LUÔN DÙNG PREVALENT, KHÔNG DÙNG POPULAR!
+
+4. health vs healthcare:
+   - health + policies, issues, risks (chính sách, vấn đề, rủi ro)
+   - healthcare + system, services, workers (hệ thống, dịch vụ, nhân viên)
+   → health = nói về sức khỏe. healthcare = nơi/người CHĂM SÓC sức khỏe
+
+5. medical vs healthcare vs health:
+   - medical = y khoa (bác sĩ, phẫu thuật)
+   - healthcare = hệ thống chăm sóc sức khỏe
+   - health = sức khỏe (khái niệm)
+   ⚠ HAY NHẦM: medical system ✗ → healthcare system ✓
+   ⚠ HAY NHẦM: healthcare policies ✗ → health policies ✓
+
+=== CẤU TRÚC MỚI - THAY THẾ "FORCING" ===
+
+ #  | Cấu trúc                | Đọc gần đúng       | Nghĩa              | Ví dụ
+----+--------------------------+---------------------+---------------------+------------------------------------------
+ 1  | forcing sb to V          | (đã biết)           | buộc (mạnh, bị ép) | forcing authorities to act
+ 2  | , which compels sb to V  | /uých com-PELZ/     | buộc (trang trọng)  | which compels the government to act
+ 3  | , thereby V-ing          | /đeo-BAI/           | qua đó              | thereby putting pressure on...
+ 4  | , prompting sb to V      | /PROMP-ting/        | thúc đẩy, khiến cho | prompting authorities to implement...
+ 5  | As a result, S + V       | /ơz ờ ri-DẤLT/     | kết quả là          | As a result, the healthcare system must...
+
+Phân biệt:
+- forcing = buộc (mạnh, bị ép)
+- compelling = buộc (mạnh, trang trọng hơn)
+- prompting = thúc đẩy (nhẹ hơn)
+- thereby = qua đó → nối kết quả, KHÔNG cần chủ ngữ mới
+- therefore = vì vậy → bắt đầu câu MỚI, cần chủ ngữ mới
+
+⚠ prompting sb TO V (nguyên mẫu, KHÔNG phải V-ing!)
+
+=== CÂU LUYỆN TẬP ===
+
+Câu 1 (ngắn):
+VN: Lối sống ít vận động đã làm tăng sự phổ biến của béo phì, buộc chính phủ phải thực thi các chính sách y tế công để chống lại bệnh mãn tính.
+Bản dịch: sedentary lifestyle has been increased the popularity of obesity, forcing authorities to implement public medical policies to curb choronic disease
+Lỗi:
+- has been increased → has increased (chủ động, không phải bị động)
+- popularity → prevalence (bệnh tật dùng prevalent/prevalence!)
+- medical policies → health policies (chính sách = health, không phải medical)
+- choronic → chronic (CHROME → CHRO-nic)
+Đáp án: A sedentary lifestyle has increased the prevalence of obesity, forcing authorities to implement public health policies to combat chronic illnesses.
+
+Câu 2 (trung bình):
+VN: Suy dinh dưỡng vẫn đang phổ biến ở nhiều quốc gia đang phát triển, thúc đẩy hệ thống y tế nỗ lực giúp trẻ em hồi phục từ các bệnh mãn tính.
+Bản dịch: malnutrition is stll popular in numerous developing nations, prompting medical system trying to help children recover from choronic disease
+Lỗi:
+- stll → still (thiếu "i")
+- popular → prevalent (bệnh tật dùng prevalent!)
+- medical system → healthcare system (hệ thống = healthcare)
+- prompting... trying → prompting... to try (prompting sb TO V!)
+- choronic → chronic (lần 2!)
+Đáp án: Malnutrition is still prevalent in numerous developing nations, prompting the healthcare system to try to help children recover from chronic diseases.
+
+Câu 3 (trung bình - dùng thereby):
+VN: Nhiều người mắc bệnh béo phì vì lối sống ít vận động, qua đó gây áp lực lên các chính sách y tế công ở nhiều quốc gia.
+Bản dịch: numerous people contract a obesity due to malnutrition lifestyle, therefore ... public healthcare policies in many nations
+Lỗi:
+- a obesity → obesity (không đếm được, bỏ mạo từ)
+- malnutrition lifestyle → sedentary lifestyle (malnutrition = suy dinh dưỡng ≠ ít vận động)
+- therefore → thereby (thereby + V-ing, không cần chủ ngữ mới)
+- healthcare policies → health policies
+Đáp án: Numerous people contract obesity due to a sedentary lifestyle, thereby putting pressure on public health policies in many nations.
+
+Câu 4 (boss fight):
+VN: Nhiều quốc gia đang phát triển vẫn đang đối mặt với sự phổ biến của suy dinh dưỡng, khiến chính phủ phải thực thi các chính sách y tế công để giúp trẻ em hồi phục từ các bệnh mãn tính và ngăn chặn béo phì.
+Bản dịch: numerous developing nations are still facing the prevalent of malnutrition, prompting authorities to implement public health policies to help chilren recover from choronic disease and curb obesity
+Lỗi:
+- prevalent (adj) → prevalence (noun) - sau "the...of" cần DANH TỪ
+- chilren → children (thiếu "d")
+- choronic → chronic (lần 3!!!)
+- disease → diseases (nhiều bệnh → số nhiều)
+Đáp án: Numerous developing nations are still facing the prevalence of malnutrition, prompting authorities to implement public health policies to help children recover from chronic diseases and curb obesity.
+
+=== LỖI HAY LẶP - SỨC KHỎE ===
+
+1. chronic viết thành "choronic" → 3 lần! Nhớ: CHROME → CHRO-nic
+2. health vs healthcare → 2 lần! policies = health, system = healthcare
+3. popular/popularity vs prevalent/prevalence → 2 lần! Bệnh tật = prevalent
+4. medical vs healthcare → 2 lần! Hệ thống y tế = healthcare system
+5. prevalent (adj) vs prevalence (noun) → cần phân biệt loại từ!
+
+=== CẦN ÔN LẠI ===
+
+1. Chính tả: chronic (KHÔNG phải choronic), children (KHÔNG phải chilren), transformed (KHÔNG phải transfomed), cultural (KHÔNG phải cutural)
+2. Phân biệt: health/healthcare/medical, prevalent/prevalence, popular/prevalent
+3. Ngữ pháp: prompting sb TO V (không phải V-ing), has increased (không phải has been increased)
+4. Mạo từ: a sedentary lifestyle (cần "a"), obesity (không cần mạo từ)

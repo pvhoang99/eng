@@ -1,0 +1,96 @@
+ÔN TẬP NGÀY 30/3/2026
+======================
+
+=== ÔN TỪ CŨ (7/10) ===
+
+✓ chronic, resources, children, advancement
+✓ effects ON, pressure ON, allocate TO, impact ON
+✗ excessive → viết "excessitive" (exce-SS-ive, không có "ti")
+✗ economic → viết "economy" (hỏi adj nhưng viết noun!)
+✗ Crime vocabulary: reform offenders, maintain public order, deter crime → quên nhiều
+
+=== CÂU DỊCH - CRIME (ÔN LẠI) ===
+
+Câu 1:
+VN: Tỷ lệ tội phạm cao đã gây ra tác hại nghiêm trọng đến an toàn công cộng...
+Bản dịch: high crime rates has given rise to detrimental effects to public safety...
+Lỗi: rates HAS → HAVE, effects TO → ON, prompting authorities implement → to implement
+
+Câu 2:
+VN: Nhiều quốc gia đã cải tạo người phạm tội thay vì bỏ tù họ...
+Bản dịch: numerous nations has reform offenders instead of putting them in prison...
+Lỗi: nations HAS → HAVE, has reform → has reformed (have + V3)
+✓ instead of imprisoning, thereby reducing... and maintaining (song song V-ing!)
+
+Câu 3 (Boss Fight):
+Bản dịch: crime rate have given rise to detrimental effects on quality of life...
+Lỗi: crime rate → crime rates, effojects → effects, prompting authorities increase → to increase
+     serveillance → surveillance (sur-VEIL-lance), implelement → implement (gõ nhầm)
+✓ detrimental effects ON (không TO — tiến bộ!), thereby maintaining public order
+
+=== ĐỔI CHIẾN LƯỢC (từ 30/3) ===
+
+Lý do: Từ IELTS học xong ít dùng, không có động lực
+Hướng mới: Từ cuộc sống hàng ngày — vlog, bóng đá, tin tức
+Giữ nguyên: phong cách dịch Việt → Anh, sửa lỗi, ghi note
+
+=== TỪ MỚI - VLOG / CUỘC SỐNG HÀNG NGÀY ===
+
+ #  | Tiếng Việt              | Tiếng Anh              | Đọc gần đúng
+----+-------------------------+------------------------+----------------------
+ 1  | hôm nay tệ thật         | today was rough        | /tờ-DEI wờz rắf/
+ 2  | kiểu như, kiểu vậy      | kind of / sort of      | /kaind ov/
+ 3  | thật ra thì             | honestly               | /ÓN-ờt-li/
+ 4  | tôi không ngờ           | I didn't expect that   | /DID-nt ik-SPÉCT/
+ 5  | đáng thử lắm            | worth trying           | /wờth TRAI-ing/
+ 6  | tốn thời gian           | time-consuming         | /taim-cơn-SIÊU-ming/
+ 7  | tôi đã quen rồi         | I'm used to it         | /aim IUSD tu it/
+ 8  | nhìn lại thì            | looking back           | /lúk-ing bắc/
+ 9  | chẳng có gì đặc biệt    | nothing special        | /nắ-thing SPÉ-shồ/
+10  | đáng đồng tiền          | worth it               | /wờth it/
+11  | thật không thể tin được | unbelievable           | /ần-bi-LÌV-ơ-bồ/
+12  | tôi đã sai              | I was wrong about that |
+13  | cứ từ từ thôi           | take it easy           | /teik it Ì-zi/
+14  | hóa ra là               | it turns out           | /it tờnz aut/
+15  | không hiểu nổi          | I can't wrap my head around it |
+
+=== CÂU ĐÃ DỊCH - VLOG ===
+
+Câu 1:
+VN: Hôm nay thật ra khá tệ, tôi không ngờ công việc lại tốn thời gian đến vậy.
+Bản dịch: today was rough, i didn't expect my work having time-consuming
+Lỗi: having → to be so (expect + to be), thiếu "Honestly" đầu câu
+✓ Đáp án: Honestly, today was rough — I didn't expect my work to be so time-consuming.
+
+Câu 2:
+VN: Nhìn lại thì tôi đã quen với kiểu sống này rồi, chẳng có gì đặc biệt cả.
+Bản dịch: looking back, i have got used to this life, nothing special
+✓ Gần đúng! "have got used to" → "I'm used to" (tự nhiên hơn)
+✓ Đáp án: Looking back, I'm used to this kind of life — nothing special.
+
+Câu 3:
+VN: Thật ra tôi không ngờ cái quán đó lại đáng đồng tiền đến vậy, kiểu như mọi thứ đều ngon.
+Bản dịch: honestly, i didn't expect this restaurant being worth, kind of everythings is delious
+Lỗi: being → to be so worth it, everythings → everything (không có s!), delious → delicious
+✓ Đáp án: Honestly, I didn't expect this restaurant to be so worth it — like, everything was delicious.
+
+=== PHÂN BIỆT QUAN TRỌNG ===
+
+1. worth it vs worth trying:
+   - worth it = đáng (nói chung) → totally worth it!
+   - worth trying = đáng thử → it's worth trying
+
+2. kind of vs like (trong vlog):
+   - kind of = kiểu như (trước tính từ) → it's kind of weird
+   - like = kiểu (đầu vế) → like, everything was amazing
+
+3. expect + to be (không phải having/being):
+   - I didn't expect it to be this good ✓
+   - I didn't expect it being this good ✗
+
+4. everything = không có "s" (bao gồm tất cả rồi)
+
+=== LỖI CHÍNH TẢ MỚI ===
+- delicious (không phải delious)
+- surveillance (sur-VEIL-lance)
+- everything (không có s!)
