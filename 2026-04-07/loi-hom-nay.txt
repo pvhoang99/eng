@@ -1,0 +1,88 @@
+GHI CHÚ LỖI - WORK & EMPLOYMENT - 07/4/2026
+=============================================
+Học 9 câu (3 nhóm), chủ đề: Việc làm
+
+=== LỖI CHÍNH TẢ ===
+
+ #  | Sai           | Đúng          | Cách nhớ
+----+---------------+---------------+----------------------------------
+ 1  | offen         | often         | chỉ 1 chữ "f"
+ 2  | tented        | tended        | tented = dựng lều, tended = xu hướng
+ 3  | goverement    | government    | govern + ment
+ 4  | now aday      | nowadays      | viết liền, có "s"
+ 5  | recuiters     | recruiters    | re + CRUIT + ers
+ 6  | commited      | committed     | 2 chữ t: commit → committed
+
+=== LỖI THÌ (TENSE) ===
+
+ #  | Sai                  | Đúng                | Quy tắc
+----+----------------------+---------------------+----------------------------------
+ 1  | in the past... choose | in the past... chose | "trước đây" → quá khứ (V2)
+ 2  | in the past... like   | in the past... liked | cùng mệnh đề quá khứ
+ 3  | nowadays... tended    | nowadays... tend     | "ngày nay" → hiện tại
+ 4  | which... ensure       | which... ensured     | theo thì của câu chính
+
+MẸO: "trước đây/in the past" → V2 hết!
+      "ngày nay/nowadays" → V1 hết!
+
+=== LỖI SỐ ÍT / NHIỀU ===
+
+ #  | Sai                    | Đúng                   | Quy tắc
+----+------------------------+------------------------+----------------------------------
+ 1  | jobs... was            | jobs... were            | -s ở chủ ngữ → were/are/have
+ 2  | was common choices     | was a common choice     | job = số ít → choice số ít + "a"
+ 3  | staffs                 | staff                   | staff không có "s" (giống people)
+
+=== LỖI LOẠI TỪ (ADJ / NOUN / VERB) ===
+
+ #  | Sai                    | Đúng                   | Quy tắc
+----+------------------------+------------------------+----------------------------------
+ 1  | tend to choice         | tend to choose          | tend to + ĐỘNG TỪ (V)
+ 2  | have responsibility    | are responsible         | cần ADJ, không phải NOUN
+ 3  | is dedicated           | is dedication           | is + DANH TỪ (sau "is" = bổ ngữ)
+ 4  | preferred choose       | preferred choice        | preferred + DANH TỪ (N)
+
+MẸO: tend to + V | is + N hoặc ADJ | are + ADJ
+
+=== LỖI CẤU TRÚC / NGỮ PHÁP ===
+
+ #  | Sai                      | Đúng                     | Quy tắc
+----+--------------------------+--------------------------+----------------------------------
+ 1  | considered as safe       | considered safe           | considered + adj (bỏ as!)
+ 2  | regarded safe            | regarded as safe          | regarded AS + adj (giữ as!)
+ 3  | which it provided        | which provided            | which đã thay it, không dùng cả hai
+ 4  | staff which work         | staff who work            | người → WHO, vật → WHICH
+ 5  | What is companies find   | What companies find       | What + S + V (không chen "is" vào giữa)
+
+=== LỖI MẠO TỪ / GIỚI TỪ ===
+
+ #  | Sai                | Đúng                 | Quy tắc
+----+--------------------+----------------------+----------------------------------
+ 1  | being adult        | being an adult        | đếm được số ít → cần a/an
+ 2  | be child           | being a child         | đếm được số ít → cần a/an
+ 3  | private sector     | the private sector    | khu vực cụ thể → cần "the"
+ 4  | the recruiters     | recruiters            | nói chung chung → bỏ "the"
+
+=== TỪ NÂNG CẤP ĐÃ HỌC ===
+
+ #  | Cơ bản               | Nâng cấp                      | Nghĩa
+----+----------------------+-------------------------------+------------------
+ 1  | often chose          | tended to choose              | có xu hướng
+ 2  | liked                | preferred                     | ưa thích
+ 3  | government job       | public sector employment      | việc nhà nước
+ 4  | of Vietnamese people | among Vietnamese individuals  | giới từ tự nhiên hơn
+ 5  | ensured              | guaranteed                    | đảm bảo chắc chắn
+ 6  | work hard            | diligent                      | chăm chỉ (adj)
+ 7  | dedicated            | committed                     | cống hiến, tận tâm
+ 8  | be preferred         | be prioritized in recruitment | được ưu tiên tuyển dụng
+ 9  | common               | prevalent                     | phổ biến (trang trọng)
+
+=== PHÂN BIỆT DỄ NHẦM ===
+
+- public places = nơi công cộng (công viên, bệnh viện)
+- public sector = khu vực nhà nước (cơ quan chính phủ)
+- choice (N) vs choose (V)
+- dedicated (ADJ) vs dedication (N)
+- responsible (ADJ) vs responsibility (N)
+- considered + adj (bỏ as) vs regarded AS + adj
+- who (người) vs which (vật)
